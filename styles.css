@@ -25,3 +25,40 @@
     position: relative;
     margin: 50px !important;
 }
+
+#editor {
+    height: 300px;
+    width: 800px;
+}
+.ql-toolbar.ql-snow {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    padding: 8px;
+    width: 800px !important;
+}
+.form-check {
+    display: block !important;
+    min-height: 1.5rem;
+    padding-left: 1.5em;
+    
+    margin-bottom: 0.125rem;
+    margin-left: 1000px !important;
+    margin-top: -300px !important;
+    
+}
+.form-check-label {
+    margin-bottom: 20px !important;
+}
+label {
+    display: block !important;
+    margin-bottom: 0.5rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    position: relative;
+    margin-top: 150px !important;
+    margin-left: 700px !important;
+}
